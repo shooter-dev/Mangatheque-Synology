@@ -8,7 +8,7 @@ UISTRING_PATH="/source/Mangatheque-Synology/package/ui/texts"
 displayname=syno-designer
 description="Gestion d'une Mangatheque pour les utilisateurs du serveur Synology"
 
-package="syno-designer"
+package="mangatheque"
 version="0.0.0001"
 maintainer="ShooterDev"
 arch="$(pkg_get_platform)"
