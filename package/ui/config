@@ -4,7 +4,7 @@
             "type": "app",
             "title": "app:title",
             "desc": "app:description",
-            "icon": "images\/syno-designer_{0}.png",
+            "icon": "images\/mangatheque_{0}.png",
             "version": "__PKG_VERSION__",
             "texts": "texts",
             "allowMultiInstance": false,
@@ -14,7 +14,7 @@
         "SYNOCOMMUNITY.sl.AppWindow": {
             "type": "lib",
             "title": "app:title",
-            "icon": "images\/syno-designer_{0}.png",
+            "icon": "images\/mangatheque_{0}.png",
             "texts": "texts",
             "depend": []
         }
