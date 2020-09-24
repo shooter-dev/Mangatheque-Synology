@@ -14,7 +14,7 @@ maintainer="Synology Community"
 arch="$(pkg_get_platform)"
 
 dsmuidir="ui"
-dsmappname="SYNOCOMMUNITY.sl.AppMangatheque"
+dsmappname="SYNOCOMMUNITY.sl.AppInstance"
 
 thirdparty="yes"
 
