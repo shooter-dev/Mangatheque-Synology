@@ -3,7 +3,7 @@
 
 source /pkgscripts/include/pkg_util.sh
 
-UISTRING_PATH="/source/syno-library/package/ui/texts"
+UISTRING_PATH="/source/Mangatheque-Synology/package/ui/texts"
 # Avec la version 6.1, la description et le nom sont obligatoires et ne peuvent plus être construit à partir des fichiers de traduction.
 displayname=Mangatheque
 description=Gestion-Mangatheque
