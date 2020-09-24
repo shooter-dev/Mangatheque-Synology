@@ -1,0 +1,11 @@
+[app]
+title = "Bibliothèque Synology"
+description = "C'est une bibliothèque virtuelle démentielle pour Synology"
+
+[body]
+magazine=Magasine
+recipe=Recette
+search=Chercher
+identifier=Identifiant
+title=Titre
+description=Description

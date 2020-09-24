@@ -1,0 +1,11 @@
+[app]
+title = "Synology Library"
+description = "This is a wonderful library on Synology"
+
+[body]
+magazine=Magazine
+recipe=Recipe
+search=Search
+identifier=Identifier
+title=Title
+description=Description
