@@ -1,7 +1,7 @@
 #!/bin/sh
 
-DB_USER="synodesigner"
-DB_NAME="synodesigner"
+DB_USER="mangatheque"
+DB_NAME="mangatheque"
 
 PSQL_BIN="/usr/bin/psql"
 
