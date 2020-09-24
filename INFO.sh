@@ -6,7 +6,7 @@ source /pkgscripts/include/pkg_util.sh
 UISTRING_PATH="/source/Mangatheque-Synology/package/ui/texts"
 # Avec la version 6.1, la description et le nom sont obligatoires et ne peuvent plus être construit à partir des fichiers de traduction.
 displayname=syno-designer
-description="Gestion d'une Mangatheque pour les utilisatu-eur du serveur Synology"
+description="Gestion d'une Mangatheque pour les utilisateurs du serveur Synology"
 
 package="syno-designer"
 version="0.0.0001"
