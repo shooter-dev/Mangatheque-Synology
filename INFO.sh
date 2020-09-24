@@ -9,7 +9,7 @@ displayname=syno-designer
 description=syno-designer
 
 package="syno-designer"
-version="0.0.1"
+version="0.0.0001"
 maintainer="ShooterDev"
 arch="$(pkg_get_platform)"
 
