@@ -111,7 +111,7 @@ Ext.define("SYNOCOMMUNITY.sl.AppWindow", {
     
     createGrid: function(dataSrc) {
         var me = this;
-        var localUrl = "/webapi/syno-library/syno-library.cgi?list=" + dataSrc;
+        var localUrl = "/webapi/syno-designer/syno-designer.cgi?list=" + dataSrc;
 
         // Définition du store pour récupérer l'ensemble des éléments
         var gridStore = new SYNO.API.JsonStore({

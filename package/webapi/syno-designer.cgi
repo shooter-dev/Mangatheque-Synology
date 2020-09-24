@@ -76,7 +76,7 @@ def process(params, table, columns):
     return json
     
 # Request pattern
-# http://HOST:PORT/webapi/syno-library/syno-library.cgi?list=recipes
+# http://HOST:PORT/webapi/syno-designer/syno-designer.cgi?list=recipes
 def extractParameters():
     parameters = cgi.FieldStorage()
     logging.info(parameters)

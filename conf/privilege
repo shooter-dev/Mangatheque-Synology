@@ -1,6 +1,6 @@
 {
-	"username": "synolibrary",
-	"groupname": "synolibrary",
+	"username": "synodesigner",
+	"groupname": "synodesigner",
 	"ctrl-script":[{ 
         "action": "postinst", 
         "run-as": "root"    

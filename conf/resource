@@ -2,16 +2,16 @@
 	"webapi-desc": {
 		"apis": [{
 			"type": "cgi",
-			"lib": ["webapi/SynoLibrary.api"],
+			"lib": ["webapi/SynoDesigner.api"],
 			"api-dir": "webapi",
-			"link-name": "syno-library"
+			"link-name": "syno-designer"
 		}]
 	},
 	"pgsql-db": {
 		"create-user": true,
 		"create-database": [{
-			"db-name": "synolibrary",
-			"db-owner": "synolibrary",
+			"db-name": "synodesigner",
+			"db-owner": "synodesigner",
 			"db-encoding": "UTF8",
 			"db-collision": "skip",
 			"db-enable-lang-c": true

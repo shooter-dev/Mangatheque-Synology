@@ -1,6 +1,6 @@
 [app]
-title = "Synology Library"
-description = "This is a wonderful library on Synology"
+title = "Synology Designer"
+description = "This is a wonderful designer on Synology for Synology"
 
 [body]
 magazine=Magazine

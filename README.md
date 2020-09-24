@@ -1,1 +1,1 @@
-# Mangatheque-Synology
+# syno-designer
