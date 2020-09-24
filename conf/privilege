@@ -1,6 +1,6 @@
 {
-	"username": "mangatheque",
-	"groupname": "mangatheque",
+	"username": "synodesigner",
+	"groupname": "synodesigner",
 	"ctrl-script":[{ 
         "action": "postinst", 
         "run-as": "root"    

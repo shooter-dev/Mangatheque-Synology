@@ -2,16 +2,16 @@
 	"webapi-desc": {
 		"apis": [{
 			"type": "cgi",
-			"lib": ["webapi/mangatheque.api"],
+			"lib": ["webapi/SynoDesigner.api"],
 			"api-dir": "webapi",
-			"link-name": "mangatheque"
+			"link-name": "syno-designer"
 		}]
 	},
 	"pgsql-db": {
 		"create-user": true,
 		"create-database": [{
-			"db-name": "mangatheque",
-			"db-owner": "mangatheque",
+			"db-name": "synodesigner",
+			"db-owner": "synodesigner",
 			"db-encoding": "UTF8",
 			"db-collision": "skip",
 			"db-enable-lang-c": true
