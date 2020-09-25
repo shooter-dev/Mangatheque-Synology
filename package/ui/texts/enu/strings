@@ -5,6 +5,12 @@ description = "This is a wonderful designer on Synology for Synology"
 [body]
 magazine=Magazine
 recipe=Recipe
+editeurs=editor
+genres=genres
+types=types
+personnes=personnes
+seires=series
+tomes=tomes
 search=Search
 identifier=Identifier
 title=Title

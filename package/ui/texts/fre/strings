@@ -5,6 +5,12 @@ description = "C'est un designer sur et pour Synology"
 [body]
 magazine=Magasine
 recipe=Recette
+editeurs=editeur
+genres=genres
+types=types
+personnes=personnes
+seires=series
+tomes=tomes
 search=Chercher
 identifier=Identifiant
 title=Titre
