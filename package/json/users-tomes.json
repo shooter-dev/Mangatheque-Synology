@@ -1,0 +1,3002 @@
+[
+    {
+      "TomeCode": "9782203022393",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782203022584",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782203024502",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782203028616",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782203087989",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782203087996",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782203088009",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782203090385",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782203090392",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782203098947",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782203101708",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782203101784",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782302000858",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782302000957",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782302002425",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782302022904",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782302023185",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782302024687",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782302027350",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782344007457",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782344007464",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782350781266",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782350781303",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782350781341",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782350781389",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782350781426",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782350782317",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782350782553",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782350782843",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782350783185",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782350784328",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782350784441",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782350784694",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782350787077",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782350787923",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782350788364",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782350789293",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351000427",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351000663",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351001493",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351001608",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351420171",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351420188",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351420195",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351420225",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351420232",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351420362",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351420416",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351420430",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351420454",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351420584",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351420591",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351420607",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351420614",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351420621",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351421499",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351421512",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351421604",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351421611",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351422960",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351423264",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351424124",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351424131",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351424148",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351426920",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351428276",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351804650",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351804803",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351809242",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351809259",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351809532",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351809761",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782351809914",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355920561",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355920691",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355920851",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355921100",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355921285",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355921353",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355921360",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355921575",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355921643",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355921681",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355921759",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355921766",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355921896",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355921964",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355922121",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355922138",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355922268",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355922404",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355922466",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355922664",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355922718",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355922824",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355922831",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355923593",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355923906",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355923913",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355923975",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355924194",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355924774",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355924903",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355925139",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355925382",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355925849",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355926280",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355926303",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355926617",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355926846",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355927102",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355927157",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355927355",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355927416",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355927683",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355927713",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355928000",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355928369",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355928475",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782355928598",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782373020007",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782373020052",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782373020229",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782377170036",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782377170067",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782377170074",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782377170357",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782377170784",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782377171200",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782377171699",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505000310",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505000327",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505000419",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505000426",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505000792",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505000815",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505000921",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505000976",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505001065",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505001096",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505001522",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505001614",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505001652",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505001676",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505001812",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505001928",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505001980",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505001997",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505002420",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505002796",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505002963",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505002970",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505003236",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505003694",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505003786",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505004172",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505004325",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505004523",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505005285",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505005582",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505005995",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505006701",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505007111",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505007241",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505007548",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505007883",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505008262",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505008279",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505008408",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505008699",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505008705",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505008712",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505009566",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505009634",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505011156",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505011330",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505011347",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505012023",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505014461",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505014478",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505014751",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505014812",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505014829",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505015338",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505015406",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505015673",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505015871",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505016878",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505017387",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505017394",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505017400",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505017660",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505060093",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505060574",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505060581",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505063902",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505068778",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505069164",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505069867",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505069874",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782505070771",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723426442",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723426640",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723427845",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723427937",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723441780",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723442206",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723442282",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723442299",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723445696",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723445702",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723446037",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723446082",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723446112",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723446297",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723448116",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723448512",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723448529",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723451291",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723454209",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723454216",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723454223",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723454230",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723454247",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723454254",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723455848",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723455862",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723455879",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723458023",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723458061",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723458245",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723459532",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723461658",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723463805",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723464390",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723464437",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723466196",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723469883",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723470216",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723470223",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723472647",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723472654",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723477895",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723477901",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723485067",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723487214",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782723487283",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782756015118",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782756015231",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782756015248",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782756017631",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782756017655",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782756020143",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782756020150",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782756021225",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782756022536",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782756024967",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782759500536",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782759500574",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782759500581",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782759500598",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782759500604",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782759501281",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782759501540",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782759501557",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782759501960",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782759501977",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782809408867",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782809408874",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782809408881",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782809408898",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782809430028",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782809431223",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782809431926",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782809433128",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782809434491",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782809448184",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782809449600",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782809450743",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782809453249",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811600099",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811600921",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811601096",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811601386",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811601997",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811602611",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811602949",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811602970",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811603274",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811603656",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811603915",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811603977",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811604172",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811604189",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811604271",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811604486",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811604493",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811604547",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811604882",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811605100",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811605148",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811605162",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811605636",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811606268",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811606633",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811606954",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811606954",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811609177",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811609337",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811609450",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811609450",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811610197",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811611699",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811611705",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811612207",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811612818",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811613297",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811613624",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811613860",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811616076",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811616472",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811619602",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811620509",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811630850",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811630867",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811630874",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811632663",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811632670",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811633172",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811634513",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811635862",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811636029",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811636975",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811637804",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811637811",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811638153",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811640873",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811642136",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811643638",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811643645",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782811644895",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782818936238",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782820300089",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782820300119",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782820300225",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782820301444",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782820301918",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782820302168",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782820302182",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782820302496",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782820315441",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782820315700",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782820315977",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782820317315",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782840559481",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845380479",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845380615",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845380646",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845380707",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845380745",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845388987",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845801462",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845803671",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845803688",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845803695",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845803732",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845808287",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845991002",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845991064",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845991125",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845991170",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845991200",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845991255",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845991460",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845991583",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845991668",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845991781",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845991880",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845991972",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845991989",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845992092",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845992108",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845992252",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845992269",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845992405",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845992573",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845992740",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845992757",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845992917",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845992924",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845993068",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845993181",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845993242",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845993549",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845993709",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845993860",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845994034",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845994225",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845994461",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845994492",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845994867",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845995031",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845995130",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845995321",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845995475",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845995628",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845995796",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845995833",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845995864",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845995871",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845996144",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845996427",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845996649",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845996687",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845996809",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845996861",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845996892",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845997042",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845997202",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845997257",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845997479",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845997486",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845997738",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845997769",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845997905",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845997950",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845998247",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845998391",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845998742",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845998810",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845999183",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845999626",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845999756",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782845999909",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782849468425",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782849469583",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782849650707",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782849650714",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782849650721",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782849651162",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782849651506",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782849651728",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782849651735",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782849651742",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782849652312",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782849652497",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782849652596",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782849652879",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782849653586",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782849653678",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782849658536",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782849658543",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782849659397",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782849659434",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782849659465",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782849659519",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782849659670",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782849659854",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871294146",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871294177",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871294276",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871294412",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871294917",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871295112",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871295358",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871295525",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871295990",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871296140",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871296249",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871296355",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871296461",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871296577",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871297048",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871297239",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871297765",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871297970",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871298021",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871298038",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871298168",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871298304",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871298342",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871298496",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871298908",
+      "UserId": 2,
+      "is_Lu": null,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871298991",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871299042",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871299110",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871299233",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871299318",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871299424",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871299615",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871299707",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871299776",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871299837",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871299875",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782871299943",
+      "UserId": 2,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782915513417",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782915513493",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782915513622",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782915513714",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    },
+    {
+      "TomeCode": "9782915513936",
+      "UserId": 1,
+      "is_Lu": 0,
+      "date_achat": "2018-01-01 00:00:00"
+    }
+  ]

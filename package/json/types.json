@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "name": "Josei",
+      "cover": "default.png"
+    },
+    {
+      "id": 2,
+      "name": "Seinen",
+      "cover": "default.png"
+    },
+    {
+      "id": 3,
+      "name": "Shôjo",
+      "cover": "default.png"
+    },
+    {
+      "id": 4,
+      "name": "Shôjo-ai",
+      "cover": "default.png"
+    },
+    {
+      "id": 5,
+      "name": "Shônen",
+      "cover": "default.png"
+    },
+    {
+      "id": 6,
+      "name": "Shônen-ai",
+      "cover": "default.png"
+    },
+    {
+      "id": 7,
+      "name": "Sonyun",
+      "cover": "default.png"
+    },
+    {
+      "id": 8,
+      "name": "Yori",
+      "cover": "default.png"
+    }
+  ]

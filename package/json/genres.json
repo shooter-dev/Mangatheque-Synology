@@ -1,0 +1,127 @@
+[
+    {
+      "id": 1,
+      "name": "default",
+      "cover": "default.png"
+    },
+    {
+      "id": 2,
+      "name": "Action",
+      "cover": "default.png"
+    },
+    {
+      "id": 3,
+      "name": "Art martiaux",
+      "cover": "default.png"
+    },
+    {
+      "id": 4,
+      "name": "Aventure",
+      "cover": "default.png"
+    },
+    {
+      "id": 5,
+      "name": "Comédie",
+      "cover": "default.png"
+    },
+    {
+      "id": 6,
+      "name": "Drame",
+      "cover": "default.png"
+    },
+    {
+      "id": 7,
+      "name": "Ecchi",
+      "cover": "default.png"
+    },
+    {
+      "id": 8,
+      "name": "Fantaisie",
+      "cover": "default.png"
+    },
+    {
+      "id": 9,
+      "name": "Historique",
+      "cover": "default.png"
+    },
+    {
+      "id": 10,
+      "name": "Horreur",
+      "cover": "default.png"
+    },
+    {
+      "id": 11,
+      "name": "Magie",
+      "cover": "default.png"
+    },
+    {
+      "id": 12,
+      "name": "Mecha",
+      "cover": "default.png"
+    },
+    {
+      "id": 13,
+      "name": "Musique",
+      "cover": "default.png"
+    },
+    {
+      "id": 14,
+      "name": "Policier",
+      "cover": "default.png"
+    },
+    {
+      "id": 15,
+      "name": "Romance",
+      "cover": "default.png"
+    },
+    {
+      "id": 16,
+      "name": "Sport",
+      "cover": "default.png"
+    },
+    {
+      "id": 17,
+      "name": "Surnaturel",
+      "cover": "default.png"
+    },
+    {
+      "id": 18,
+      "name": "Thriller",
+      "cover": "default.png"
+    },
+    {
+      "id": 19,
+      "name": "Tranche de vie",
+      "cover": "default.png"
+    },
+    {
+      "id": 20,
+      "name": "Uchronie",
+      "cover": "default.png"
+    },
+    {
+      "id": 21,
+      "name": "Vampire",
+      "cover": "default.png"
+    },
+    {
+      "id": 22,
+      "name": "Crimes & mystères",
+      "cover": "default.png"
+    },
+    {
+      "id": 23,
+      "name": "Science-fiction",
+      "cover": "default.png"
+    },
+    {
+      "id": 24,
+      "name": "Suspens & Thrillers",
+      "cover": "default.png"
+    },
+    {
+      "id": 25,
+      "name": "Humour",
+      "cover": "default.png"
+    }
+]

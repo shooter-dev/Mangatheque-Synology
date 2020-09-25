@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "name": "Asuka",
+      "cover": "default.png"
+    },
+    {
+      "id": 2,
+      "name": "Casterman",
+      "cover": "default.png"
+    },
+    {
+      "id": 3,
+      "name": "Delcourt",
+      "cover": "default.png"
+    },
+    {
+      "id": 4,
+      "name": "Doki Doki",
+      "cover": "default.png"
+    },
+    {
+      "id": 5,
+      "name": "Glénat",
+      "cover": "default.png"
+    },
+    {
+      "id": 6,
+      "name": "Kami",
+      "cover": "default.png"
+    },
+    {
+      "id": 7,
+      "name": "Kana",
+      "cover": "default.png"
+    },
+    {
+      "id": 8,
+      "name": "Kazé Manga",
+      "cover": "default.png"
+    },
+    {
+      "id": 9,
+      "name": "Ki-oon",
+      "cover": "default.png"
+    },
+    {
+      "id": 10,
+      "name": "Kurokawa",
+      "cover": "default.png"
+    },
+    {
+      "id": 11,
+      "name": "Panini Manga",
+      "cover": "default.png"
+    },
+    {
+      "id": 12,
+      "name": "Pika Édition",
+      "cover": "default.png"
+    },
+    {
+      "id": 13,
+      "name": "Soleil Manga",
+      "cover": "default.png"
+    },
+    {
+      "id": 14,
+      "name": "Taifu Comics",
+      "cover": "default.png"
+    },
+    {
+      "id": 15,
+      "name": "Tonkam",
+      "cover": "default.png"
+    },
+    {
+      "id": 16,
+      "name": "ototo",
+      "cover": "default.png"
+    },
+    {
+      "id": 17,
+      "name": "sakka",
+      "cover": "default.png"
+    },
+    {
+      "id": 18,
+      "name": "Ofelbe",
+      "cover": "default.png"
+    },
+    {
+      "id": 19,
+      "name": "Booken",
+      "cover": "default.png"
+    },
+    {
+      "id": 20,
+      "name": "Akata",
+      "cover": "default.png"
+    }
+  ]

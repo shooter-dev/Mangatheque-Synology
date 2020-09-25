@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "role": "?",
+      "cover": "default.png"
+    },
+    {
+      "id": 2,
+      "role": "story",
+      "cover": "default.png"
+    },
+    {
+      "id": 3,
+      "role": "art",
+      "cover": "default.png"
+    },
+    {
+      "id": 4,
+      "role": "conception des personnages",
+      "cover": "default.png"
+    },
+    {
+      "id": 5,
+      "role": "character design",
+      "cover": "default.png"
+    },
+    {
+      "id": 6,
+      "role": "comic",
+      "cover": "default.png"
+    }
+  ]

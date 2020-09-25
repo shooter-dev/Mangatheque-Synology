@@ -1,0 +1,1059 @@
+[
+    {
+      "id": 1,
+      "name": "A Silent Voice",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 2,
+      "name": "Air Gear",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 3,
+      "name": "Artelier Collection",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 4,
+      "name": "Ash & Eli",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 5,
+      "name": "Bakuman",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 6,
+      "name": "Blood Lad",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 7,
+      "name": "Bloody Cross",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 8,
+      "name": "Buso renkin",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 9,
+      "name": "Countrouble",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 10,
+      "name": "Dark rabbit",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 11,
+      "name": "Darwin's Game",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 12,
+      "name": "DearS",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 13,
+      "name": "Dimension W",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 14,
+      "name": "Docteur Yôkai",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 15,
+      "name": "Geobreeders",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 16,
+      "name": "Girl Friends",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 17,
+      "name": "GTO",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 18,
+      "name": "GTO Shônan 14 Days",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 19,
+      "name": "Gunslinger girl",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 20,
+      "name": "Highschool of the Dead",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 21,
+      "name": "Kirara",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 22,
+      "name": "Lost Paradise",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 23,
+      "name": "Love & Lies",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 24,
+      "name": "Love Hina",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 25,
+      "name": "Midori days",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 26,
+      "name": "Mirai Nikki",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 27,
+      "name": "Monster Soul",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 28,
+      "name": "MxZero",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 29,
+      "name": "My-Hime",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 30,
+      "name": "Otaku Girls",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 31,
+      "name": "Pandora Hearts",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 32,
+      "name": "Psycho busters",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 33,
+      "name": "Re:Zero",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 34,
+      "name": "Reborn",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 35,
+      "name": "Rinne",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 36,
+      "name": "Rosario + Vampire",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 37,
+      "name": "Satan 666",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 38,
+      "name": "Shikabane Hime",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 39,
+      "name": "Stray Little Devil",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 40,
+      "name": "Switch Girl !!",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 41,
+      "name": "Sword Art Online",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 42,
+      "name": "Sword Art Online ROMAN ",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 43,
+      "name": "Tales of Symphonia",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 44,
+      "name": "To Love",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 45,
+      "name": "Un amour de bentô",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 46,
+      "name": "Vénus versus Virus",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 47,
+      "name": "World embryo",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 48,
+      "name": "XBlade",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 49,
+      "name": "Your Name",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 50,
+      "name": "The Rising of the Shield Hero",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 51,
+      "name": "07-Ghost",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 52,
+      "name": "2nd Love - Once Upon a Lie",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 53,
+      "name": "Ajin",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 54,
+      "name": "Alice au royaume de Coeur",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 55,
+      "name": "Angel sanctuary",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 56,
+      "name": "Assassination classroom",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 57,
+      "name": "Attaque Des Titans",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 58,
+      "name": "Beelzebub",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 59,
+      "name": "Black Bird",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 60,
+      "name": "Black cat",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 61,
+      "name": "Bleach",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 62,
+      "name": "Bleach Film1",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 63,
+      "name": "Bleu Indigo",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 64,
+      "name": "Breath of Fire IV ",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 65,
+      "name": "Buster Keel !",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 66,
+      "name": "Catacombes",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 67,
+      "name": "Celui que j'aime",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 68,
+      "name": "Chobits",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 69,
+      "name": "Code:Breaker",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 70,
+      "name": "Coyote Ragtime Show",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 71,
+      "name": "CRIMSON-SHELL",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 72,
+      "name": "D.Gray-man",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 74,
+      "name": "Deadman Wonderland",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 75,
+      "name": "Death note",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 76,
+      "name": "Defense Devil",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 77,
+      "name": "Devil's Lost Soul ",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 78,
+      "name": "Diabolic Garden",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 79,
+      "name": "Divine Nanami",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 80,
+      "name": "DN Angel",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 81,
+      "name": "Doubt",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 82,
+      "name": "Evangelion",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 83,
+      "name": "Final Fantasy : Lost Stranger",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 84,
+      "name": "Final fantasy type-0",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 85,
+      "name": "Fruits Basket",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 86,
+      "name": "FullMetal Alchemist",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 87,
+      "name": "Galism",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 88,
+      "name": "Ga-Rei",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 89,
+      "name": "Gate 7",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 90,
+      "name": "Hana yori dango",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 91,
+      "name": "Happy Marriage ?!",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 92,
+      "name": "Hunter x Hunter",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 93,
+      "name": "Judge",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 94,
+      "name": "Ju-on",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 95,
+      "name": "Kamichu",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 96,
+      "name": "King's Game",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 97,
+      "name": "Kuroko 's basket ",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 98,
+      "name": "La cité des esclaves",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 99,
+      "name": "La courtisane d'Edo",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 100,
+      "name": "La Valeur de ma vie",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 102,
+      "name": "Les brigades immunitaires",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 103,
+      "name": "Lesson of the evil",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 104,
+      "name": "LETTER BEE",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 105,
+      "name": "Life",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 106,
+      "name": "Lost Brain",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 107,
+      "name": "Love is the Devil",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 108,
+      "name": "Loveless",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 109,
+      "name": "Mär",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 110,
+      "name": "Mariés mais pas trop",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 111,
+      "name": "Mémoires du Masque",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 112,
+      "name": "Meru Puri",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 113,
+      "name": "Monochrome Animals",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 114,
+      "name": "MPD psycho",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 115,
+      "name": "Nana",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 116,
+      "name": "Naruto",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 117,
+      "name": "Naruto, La véritable histoire d'Itachi",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 118,
+      "name": "Negima - Le maitre magicien",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 119,
+      "name": "Nuit noire",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 120,
+      "name": "Nura, Le seigneur des Yôkai",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 121,
+      "name": "One Piece - Strong World",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 122,
+      "name": "Otomen",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 123,
+      "name": "Piece",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 124,
+      "name": "Princess Nightmare",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 125,
+      "name": "Psycho-Pass",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 126,
+      "name": "PureBlood Boyfriend",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 127,
+      "name": "Rave",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 128,
+      "name": "Rebirth",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 129,
+      "name": "Red raven",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 130,
+      "name": "Rinne",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 131,
+      "name": "Room paradise",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 132,
+      "name": "Samurai Deeper Kyo",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 133,
+      "name": "Secret Service",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 134,
+      "name": "Shaman King",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 135,
+      "name": "Shikabane Hime",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 136,
+      "name": "Shinobi life",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 137,
+      "name": "Shugo Chara !",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 138,
+      "name": "Soul eater",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 139,
+      "name": "Special A",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 140,
+      "name": "Sprite",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 142,
+      "name": "Suzuka",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 143,
+      "name": "The breaker",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 144,
+      "name": "The cross triangle",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 145,
+      "name": "The death and the strawberry",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 146,
+      "name": "The Gentlemen's Alliance Cross",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 147,
+      "name": "Tokyo Ghoul",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 148,
+      "name": "Tripeace",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 149,
+      "name": "Tsubasa Reservoir Chronicle",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 150,
+      "name": "Vampire chronicles",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 151,
+      "name": "Vampire Knight",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 152,
+      "name": "Wolf Girl & Black Prince",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 153,
+      "name": "Princesse Sakura",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    },
+    {
+      "id": 154,
+      "name": "???",
+      "cover": "default.png",
+      "volumes": 1,
+      "TypeId": 1
+    }
+  ]

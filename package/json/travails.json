@@ -1,0 +1,1227 @@
+[
+    {
+      "PersonneId": 1,
+      "TomeCode": "9782756015118",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 1,
+      "TomeCode": "9782756022536",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 1,
+      "TomeCode": "9782756024967",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 1,
+      "TomeCode": "9782756015231",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 1,
+      "TomeCode": "9782756015248",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 1,
+      "TomeCode": "9782756017631",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 1,
+      "TomeCode": "9782756017655",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 1,
+      "TomeCode": "9782756020143",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 1,
+      "TomeCode": "9782756020150",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 1,
+      "TomeCode": "9782756021225",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 2,
+      "TomeCode": "9782849650707",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 2,
+      "TomeCode": "9782849650714",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 2,
+      "TomeCode": "9782849650721",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 3,
+      "TomeCode": "9782849659434",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 4,
+      "TomeCode": "9782845991460",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 4,
+      "TomeCode": "9782845992573",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 4,
+      "TomeCode": "9782845992740",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 4,
+      "TomeCode": "9782845992917",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 4,
+      "TomeCode": "9782845993068",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 4,
+      "TomeCode": "9782845993242",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 4,
+      "TomeCode": "9782845991583",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 4,
+      "TomeCode": "9782845991668",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 4,
+      "TomeCode": "9782845991781",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 4,
+      "TomeCode": "9782845991880",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 4,
+      "TomeCode": "9782845991972",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 4,
+      "TomeCode": "9782845992092",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 4,
+      "TomeCode": "9782845992252",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 4,
+      "TomeCode": "9782845992405",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 12,
+      "TomeCode": "9782203022584",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 12,
+      "TomeCode": "9782203024502",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 12,
+      "TomeCode": "9782203022393",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 12,
+      "TomeCode": "9782203028616",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 15,
+      "TomeCode": "9782845991002",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 15,
+      "TomeCode": "9782845991064",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 15,
+      "TomeCode": "9782845991125",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 15,
+      "TomeCode": "9782845991170",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 15,
+      "TomeCode": "9782845991200",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 15,
+      "TomeCode": "9782845991255",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 15,
+      "TomeCode": "9782811605636",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 20,
+      "TomeCode": "9782355921575",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 25,
+      "TomeCode": "9782355920561",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 25,
+      "TomeCode": "9782355920691",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 27,
+      "TomeCode": "9782845808287",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 27,
+      "TomeCode": "9782759500536",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 29,
+      "TomeCode": "9782351420362",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 32,
+      "TomeCode": "9782355926280",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 32,
+      "TomeCode": "9782355926617",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 32,
+      "TomeCode": "9782355926846",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 32,
+      "TomeCode": "9782355927102",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 32,
+      "TomeCode": "9782355927355",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 38,
+      "TomeCode": "9782373020229",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 38,
+      "TomeCode": "9782373020052",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 38,
+      "TomeCode": "9782373020007",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 40,
+      "TomeCode": "9782849651162",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 43,
+      "TomeCode": "9782351420584",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 43,
+      "TomeCode": "9782351420621",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 43,
+      "TomeCode": "9782351420225",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 43,
+      "TomeCode": "9782351421604",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 43,
+      "TomeCode": "9782351421611",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 43,
+      "TomeCode": "9782351423264",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 43,
+      "TomeCode": "9782351420232",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 43,
+      "TomeCode": "9782351420430",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 43,
+      "TomeCode": "9782351420591",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 43,
+      "TomeCode": "9782351420607",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 43,
+      "TomeCode": "9782351420614",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 43,
+      "TomeCode": "9782351421499",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 44,
+      "TomeCode": "9782811606268",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 44,
+      "TomeCode": "9782811606633",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 46,
+      "TomeCode": "9782351426920",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 48,
+      "TomeCode": "9782355923906",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 48,
+      "TomeCode": "9782355923913",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 49,
+      "TomeCode": "9782350787077",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 49,
+      "TomeCode": "9782350787923",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 49,
+      "TomeCode": "9782350788364",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 49,
+      "TomeCode": "9782350789293",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 52,
+      "TomeCode": "9782811602949",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 54,
+      "TomeCode": "9782355921759",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 54,
+      "TomeCode": "9782355922268",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 54,
+      "TomeCode": "9782355922138",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 54,
+      "TomeCode": "9782355922466",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 54,
+      "TomeCode": "9782355922664",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 54,
+      "TomeCode": "9782355921766",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 54,
+      "TomeCode": "9782355921964",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 54,
+      "TomeCode": "9782355922831",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 55,
+      "TomeCode": "9782915513622",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 55,
+      "TomeCode": "9782915513417",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 55,
+      "TomeCode": "9782915513493",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 55,
+      "TomeCode": "9782915513714",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 55,
+      "TomeCode": "9782915513936",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 56,
+      "TomeCode": "9782351804650",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 56,
+      "TomeCode": "9782351804803",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 58,
+      "TomeCode": "9782849652312",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 58,
+      "TomeCode": "9782849652497",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 58,
+      "TomeCode": "9782849652596",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 58,
+      "TomeCode": "9782849652879",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 60,
+      "TomeCode": "9782355923975",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 60,
+      "TomeCode": "9782355924194",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 64,
+      "TomeCode": "9782505008262",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 64,
+      "TomeCode": "9782505008279",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 64,
+      "TomeCode": "9782505009634",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 68,
+      "TomeCode": "9782845998247",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 68,
+      "TomeCode": "9782845996687",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 68,
+      "TomeCode": "9782845996892",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 68,
+      "TomeCode": "9782845997042",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 68,
+      "TomeCode": "9782845997257",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 68,
+      "TomeCode": "9782845997479",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 68,
+      "TomeCode": "9782845997738",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 68,
+      "TomeCode": "9782845997950",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 68,
+      "TomeCode": "9782845998742",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 71,
+      "TomeCode": "9782351000427",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 71,
+      "TomeCode": "9782351000663",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 71,
+      "TomeCode": "9782351001493",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 71,
+      "TomeCode": "9782351001608",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 81,
+      "TomeCode": "9782811606954",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 81,
+      "TomeCode": "9782811609450",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 84,
+      "TomeCode": "9782809430028",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 84,
+      "TomeCode": "9782809431223",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 84,
+      "TomeCode": "9782809431926",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 84,
+      "TomeCode": "9782809433128",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 84,
+      "TomeCode": "9782809434491",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 93,
+      "TomeCode": "9782849658536",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 93,
+      "TomeCode": "9782849658543",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 93,
+      "TomeCode": "9782849659465",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 97,
+      "TomeCode": "9782355925139",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 105,
+      "TomeCode": "9782723454209",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 105,
+      "TomeCode": "9782723454223",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 105,
+      "TomeCode": "9782723454230",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 105,
+      "TomeCode": "9782723454247",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 105,
+      "TomeCode": "9782723454254",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 105,
+      "TomeCode": "9782723458245",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 105,
+      "TomeCode": "9782723454216",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 112,
+      "TomeCode": "9782845380479",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 112,
+      "TomeCode": "9782845380615",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 112,
+      "TomeCode": "9782845380646",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 112,
+      "TomeCode": "9782845380707",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 112,
+      "TomeCode": "9782845380745",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 114,
+      "TomeCode": "9782355927157",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 114,
+      "TomeCode": "9782355927416",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 114,
+      "TomeCode": "9782355927683",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 114,
+      "TomeCode": "9782355928000",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 114,
+      "TomeCode": "9782355928369",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 115,
+      "TomeCode": "9782818936238",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 116,
+      "TomeCode": "9782811602611",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 116,
+      "TomeCode": "9782811602970",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 116,
+      "TomeCode": "9782811603274",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 116,
+      "TomeCode": "9782811603656",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 116,
+      "TomeCode": "9782811603977",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 116,
+      "TomeCode": "9782811604271",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 116,
+      "TomeCode": "9782811604547",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 117,
+      "TomeCode": "9782723455862",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 117,
+      "TomeCode": "9782723455879",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 118,
+      "TomeCode": "9782811619602",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 119,
+      "TomeCode": "9782302002425",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 119,
+      "TomeCode": "9782849468425",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 119,
+      "TomeCode": "9782849469583",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 119,
+      "TomeCode": "9782302000957",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 120,
+      "TomeCode": "9782759501540",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 120,
+      "TomeCode": "9782759501557",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 121,
+      "TomeCode": "9782350781266",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 121,
+      "TomeCode": "9782350781303",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 121,
+      "TomeCode": "9782350781341",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 121,
+      "TomeCode": "9782350781389",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 121,
+      "TomeCode": "9782350781426",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 121,
+      "TomeCode": "9782350782317",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 121,
+      "TomeCode": "9782350782553",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 121,
+      "TomeCode": "9782350782843",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 121,
+      "TomeCode": "9782350783185",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 121,
+      "TomeCode": "9782350784328",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 121,
+      "TomeCode": "9782350784441",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 121,
+      "TomeCode": "9782350784694",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 122,
+      "TomeCode": "9782759500581",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 122,
+      "TomeCode": "9782759501281",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 122,
+      "TomeCode": "9782759500604",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 122,
+      "TomeCode": "9782759500598",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 122,
+      "TomeCode": "9782759501960",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 122,
+      "TomeCode": "9782759501977",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 122,
+      "TomeCode": "9782759500574",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 123,
+      "TomeCode": "9782811606633",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 123,
+      "TomeCode": "9782811606268",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 124,
+      "TomeCode": "9782811635862",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 124,
+      "TomeCode": "9782811636975",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 124,
+      "TomeCode": "9782811638153",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 125,
+      "TomeCode": "9782811630850",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 125,
+      "TomeCode": "9782811630867",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 125,
+      "TomeCode": "9782811630874",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 125,
+      "TomeCode": "9782811634513",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 125,
+      "TomeCode": "9782811636029",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 126,
+      "TomeCode": "9782809430028",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 126,
+      "TomeCode": "9782809431223",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 126,
+      "TomeCode": "9782809431926",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 126,
+      "TomeCode": "9782809433128",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 126,
+      "TomeCode": "9782809434491",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 127,
+      "TomeCode": "9782849651162",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 128,
+      "TomeCode": "9782809430028",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 128,
+      "TomeCode": "9782809431223",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 128,
+      "TomeCode": "9782809431926",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 128,
+      "TomeCode": "9782809433128",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 128,
+      "TomeCode": "9782809434491",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 129,
+      "TomeCode": "9782355927713",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 130,
+      "TomeCode": "9782811605100",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 131,
+      "TomeCode": "9782811605100",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 80,
+      "TomeCode": "9782811601386",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 78,
+      "TomeCode": "9782811601386",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 80,
+      "TomeCode": "9782811601096",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 78,
+      "TomeCode": "9782811601096",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 134,
+      "TomeCode": "9782351809914",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 38,
+      "TomeCode": "9782351809914",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 38,
+      "TomeCode": "9782377170036",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 38,
+      "TomeCode": "9782351809761",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 38,
+      "TomeCode": "9782351809242",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 38,
+      "TomeCode": "9782351809259",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 38,
+      "TomeCode": "9782351809532",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 38,
+      "TomeCode": "9782377170784",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 38,
+      "TomeCode": "9782377171699",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 38,
+      "TomeCode": "9782377171200",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 132,
+      "TomeCode": "9782377171200",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 133,
+      "TomeCode": "9782377170036",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 133,
+      "TomeCode": "9782351809761",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 133,
+      "TomeCode": "9782351809242",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 133,
+      "TomeCode": "9782351809259",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 133,
+      "TomeCode": "9782351809532",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 133,
+      "TomeCode": "9782377170784",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 133,
+      "TomeCode": "9782377171699",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 127,
+      "TomeCode": "9782849651506",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 127,
+      "TomeCode": "9782849651728",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 127,
+      "TomeCode": "9782849651735",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 127,
+      "TomeCode": "9782849651742",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 79,
+      "TomeCode": "9782849651162",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 79,
+      "TomeCode": "9782849651506",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 79,
+      "TomeCode": "9782849651728",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 79,
+      "TomeCode": "9782849651735",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 79,
+      "TomeCode": "9782849651742",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 137,
+      "TomeCode": "9782377170357",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 137,
+      "TomeCode": "9782377170074",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 137,
+      "TomeCode": "9782377170067",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 40,
+      "TomeCode": "9782849651506",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 40,
+      "TomeCode": "9782849651728",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 40,
+      "TomeCode": "9782849651735",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 40,
+      "TomeCode": "9782849651742",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 135,
+      "TomeCode": "9782377170357",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 135,
+      "TomeCode": "9782377170074",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 135,
+      "TomeCode": "9782377170067",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 136,
+      "TomeCode": "9782377170357",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 136,
+      "TomeCode": "9782377170074",
+      "RoleId": 1
+    },
+    {
+      "PersonneId": 136,
+      "TomeCode": "9782377170067",
+      "RoleId": 1
+    }
+]

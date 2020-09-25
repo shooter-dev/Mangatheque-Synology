@@ -69,6 +69,7 @@ CREATE TABLE IF NOT EXISTS Tomes (
     "pages"         int(11) NOT NULL,
     "date_VF"       datetime,
     "date_VO"       datetime,
+    "resumer"       varchar(3000)
     "cover"         varchar(512) NOT NULL
 );
 
