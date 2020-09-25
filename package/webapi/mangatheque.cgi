@@ -99,7 +99,70 @@ logging.info("Initializing...")
 
 REQUEST_PARAMETER = { 
     "recipes": { "table": "t_recipe", "columns": [{"name":"identifier", "type": "int"}, {"name":"title", "type": "string"}, {"name":"description", "type": "string"}] },
-    "magazines": { "table": "t_magazine", "columns": [{"name":"identifier", "type": "int"}, {"name":"title", "type": "string"}, {"name":"description", "type": "string"}] }
+    "magazines": { "table": "t_magazine", "columns": [{"name":"identifier", "type": "int"}, {"name":"title", "type": "string"}, {"name":"description", "type": "string"}] },
+    "editeurs": 
+    { 
+        "table": "Editeurs",
+        "columns": [
+            { "name":"id", "type": "int"},
+            { "name":"title", "type": "string" },
+            { "name":"cover", "type": "string" }
+        ] 
+    },
+    "genres": 
+    {
+        "table": "Genres",
+        "columns": [
+            { "name":"id", "type": "int" },
+            { "name":"title", "type": "string" },
+            { "name":"cover", "type": "string" }
+        ]
+    },
+    "types": 
+    {
+        "table": "Types",
+        "columns": [
+            { "name":"id", "type": "int" },
+            { "name":"title", "type": "string" },
+            { "name":"cover", "type": "string" }
+        ]
+    },
+    "personnes":
+    {
+        "table": "Personnes",
+        "columns": [
+            { "name":"id", "type": "int"},
+            { "name":"name", "type": "string" },
+            { "name":"firstname", "type": "string" },
+            { "name":"sex", "type": "char" },
+            { "name":"naissance", "type": "datetime" },
+            { "name":"cover", "type": "string" }
+        ]
+    },
+    "series":
+    {
+        "table":
+        "Series",   
+        "columns": [
+            { "name":"id", "type": "int"},
+            { "name":"name", "type": "string" },,
+            { "name":"volumes", "type": "float" },,
+            { "name":"cover", "type": "string" }
+    },
+    "tomes": 
+    {
+        "table": "Tomes",
+        "columns": [
+            { "name":"code", "type": "string" },
+            { "name":"title", "type": "string" },
+            { "name":"volumes", "type": "float" },
+            { "name":"pages", "type": "int" },
+            { "name":"date_VF", "type": "datetime" },
+            { "name":"date_VO", "type": "datetime" },
+            { "name":"resumer", "type": "string" },
+            { "name":"cover", "type": "string" }
+        ]
+    }
 }
 
 logging.info("Load configuration file")
