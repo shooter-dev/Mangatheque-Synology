@@ -141,13 +141,13 @@ REQUEST_PARAMETER = {
     },
     "series":
     {
-        "table":
-        "Series",   
+        "table": "Series",   
         "columns": [
             { "name":"id", "type": "int"},
             { "name":"name", "type": "string" },
             { "name":"volumes", "type": "float" },
             { "name":"cover", "type": "string" }
+        ]
     },
     "tomes": 
     {
