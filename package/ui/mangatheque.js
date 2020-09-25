@@ -32,6 +32,15 @@ Ext.define("SYNOCOMMUNITY.sl.AppWindow", {
         me.recipes = me.createGrid("recipes");
         me.magazines = me.createGrid("magazines");
 
+        me.recipes = me.createGrid("editeurs");
+        me.magazines = me.createGrid("genres");
+
+        me.recipes = me.createGrid("types");
+        me.magazines = me.createGrid("personnes");
+
+        me.recipes = me.createGrid("series");
+        me.magazines = me.createGrid("tomes");
+
         me.tabs = (function () {
             var allTabs = [];
 
@@ -49,6 +58,48 @@ Ext.define("SYNOCOMMUNITY.sl.AppWindow", {
                 items: me.recipes
             });
 
+            // Liste des editeur
+            allTabs.push({
+                title: _TT("SYNOCOMMUNITY.sl.AppInstance", "body", "editeur(s)"),
+                layout: "fit",
+                items: me.editeurs
+            });
+
+            // Liste des genres
+            allTabs.push({
+                title: _TT("SYNOCOMMUNITY.sl.AppInstance", "body", "genre(s)"),
+                layout: "fit",
+                items: me.genres
+            });
+
+            // Liste des types
+            allTabs.push({
+                title: _TT("SYNOCOMMUNITY.sl.AppInstance", "body", "type(s)"),
+                layout: "fit",
+                items: me.types
+            });
+
+            // Liste des personnes
+            allTabs.push({
+                title: _TT("SYNOCOMMUNITY.sl.AppInstance", "body", "personne(s)"),
+                layout: "fit",
+                items: me.personnes
+            });
+
+            // Liste des series
+            allTabs.push({
+                title: _TT("SYNOCOMMUNITY.sl.AppInstance", "body", "serie(s)"),
+                layout: "fit",
+                items: me.series
+            });
+
+            // Liste des tomes
+            allTabs.push({
+                title: _TT("SYNOCOMMUNITY.sl.AppInstance", "body", "tome(s)"),
+                layout: "fit",
+                items: me.tomes
+            });
+
             return allTabs;
         }).call(me);
         
@@ -56,8 +107,8 @@ Ext.define("SYNOCOMMUNITY.sl.AppWindow", {
             resizable : true,
             maximizable : true,
             minimizable : true,
-            width : 700,
-            height : 350,
+            width : 800,
+            height : 480,
             layout: "fit",
             items : [ {
                 xtype: "syno_tabpanel",
