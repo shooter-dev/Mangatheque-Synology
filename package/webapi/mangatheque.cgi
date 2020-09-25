@@ -105,7 +105,7 @@ REQUEST_PARAMETER = {
         "table": "Editeurs",
         "columns": [
             { "name":"id", "type": "int"},
-            { "name":"title", "type": "string" },
+            { "name":"name", "type": "string" },
             { "name":"cover", "type": "string" }
         ] 
     },
@@ -114,7 +114,7 @@ REQUEST_PARAMETER = {
         "table": "Genres",
         "columns": [
             { "name":"id", "type": "int" },
-            { "name":"title", "type": "string" },
+            { "name":"name", "type": "string" },
             { "name":"cover", "type": "string" }
         ]
     },
@@ -123,7 +123,7 @@ REQUEST_PARAMETER = {
         "table": "Types",
         "columns": [
             { "name":"id", "type": "int" },
-            { "name":"title", "type": "string" },
+            { "name":"name", "type": "string" },
             { "name":"cover", "type": "string" }
         ]
     },
@@ -154,7 +154,7 @@ REQUEST_PARAMETER = {
         "table": "Tomes",
         "columns": [
             { "name":"code", "type": "string" },
-            { "name":"title", "type": "string" },
+            { "name":"name", "type": "string" },
             { "name":"volumes", "type": "float" },
             { "name":"pages", "type": "int" },
             { "name":"date_VF", "type": "string" },
