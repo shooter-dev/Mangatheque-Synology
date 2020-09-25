@@ -135,7 +135,7 @@ REQUEST_PARAMETER = {
             { "name":"name", "type": "string" },
             { "name":"firstname", "type": "string" },
             { "name":"sex", "type": "char" },
-            { "name":"naissance", "type": "datetime" },
+            { "name":"naissance", "type": "string" },
             { "name":"cover", "type": "string" }
         ]
     },
@@ -145,8 +145,8 @@ REQUEST_PARAMETER = {
         "Series",   
         "columns": [
             { "name":"id", "type": "int"},
-            { "name":"name", "type": "string" },,
-            { "name":"volumes", "type": "float" },,
+            { "name":"name", "type": "string" },
+            { "name":"volumes", "type": "float" },
             { "name":"cover", "type": "string" }
     },
     "tomes": 
@@ -157,8 +157,8 @@ REQUEST_PARAMETER = {
             { "name":"title", "type": "string" },
             { "name":"volumes", "type": "float" },
             { "name":"pages", "type": "int" },
-            { "name":"date_VF", "type": "datetime" },
-            { "name":"date_VO", "type": "datetime" },
+            { "name":"date_VF", "type": "string" },
+            { "name":"date_VO", "type": "string" },
             { "name":"resumer", "type": "string" },
             { "name":"cover", "type": "string" }
         ]

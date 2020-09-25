@@ -20,6 +20,20 @@ CREATE TABLE IF NOT EXISTS t_component (
     "container"     BOOLEAN DEFAULT FALSE
 );
 
+DROP  TABLE IF NOT EXISTS Users ();
+
+DROP  TABLE IF NOT EXISTS Editeurs ();
+
+DROP  TABLE IF NOT EXISTS Genres ();
+
+DROP  TABLE IF NOT EXISTS Types ();
+
+DROP  TABLE IF NOT EXISTS Personnes ();
+
+DROP  TABLE IF NOT EXISTS Series ();
+
+DROP  TABLE IF NOT EXISTS Tomes ();
+
 CREATE TABLE IF NOT EXISTS Users (
     "id"            BIGINT PRIMARY KEY,
     "name"     	    varchar(255) NOT NULL,
