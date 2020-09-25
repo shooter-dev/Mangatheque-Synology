@@ -78,42 +78,42 @@ Ext.define("SYNOCOMMUNITY.sl.AppWindow", {
 
             // Liste des editeur
             allTabs.push({
-                title: _TT("SYNOCOMMUNITY.sl.AppInstance", "body", "editeur(s)"),
+                title: _TT("SYNOCOMMUNITY.sl.AppInstance", "body", "editeur"),
                 layout: "fit",
                 items: me.editeurs
             });
 
             // Liste des genres
             allTabs.push({
-                title: _TT("SYNOCOMMUNITY.sl.AppInstance", "body", "genre(s)"),
+                title: _TT("SYNOCOMMUNITY.sl.AppInstance", "body", "genre"),
                 layout: "fit",
                 items: me.genres
             });
 
             // Liste des types
             allTabs.push({
-                title: _TT("SYNOCOMMUNITY.sl.AppInstance", "body", "type(s)"),
+                title: _TT("SYNOCOMMUNITY.sl.AppInstance", "body", "type"),
                 layout: "fit",
                 items: me.types
             });
 
             // Liste des personnes
             allTabs.push({
-                title: _TT("SYNOCOMMUNITY.sl.AppInstance", "body", "personne(s)"),
+                title: _TT("SYNOCOMMUNITY.sl.AppInstance", "body", "personne"),
                 layout: "fit",
                 items: me.personnes
             });
 
             // Liste des series
             allTabs.push({
-                title: _TT("SYNOCOMMUNITY.sl.AppInstance", "body", "serie(s)"),
+                title: _TT("SYNOCOMMUNITY.sl.AppInstance", "body", "serie"),
                 layout: "fit",
                 items: me.series
             });
 
             // Liste des tomes
             allTabs.push({
-                title: _TT("SYNOCOMMUNITY.sl.AppInstance", "body", "tome(s)"),
+                title: _TT("SYNOCOMMUNITY.sl.AppInstance", "body", "tome"),
                 layout: "fit",
                 items: me.tomes
             });
