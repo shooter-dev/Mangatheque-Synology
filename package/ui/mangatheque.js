@@ -15,7 +15,7 @@ Ext.define("SYNOCOMMUNITY.sl.AppWindow", {
     extend : "SYNO.SDS.AppWindow",
 
     // Nombre de lignes maximum dans les tableaux (pour la pagination)
-    maxItem: 20,
+    maxItem: 50,
 
     // Liste des onglets
     tabs: null,
@@ -25,6 +25,24 @@ Ext.define("SYNOCOMMUNITY.sl.AppWindow", {
 
     //Tableau contenant les magasines
     magazines: null,
+
+    // Tableau contenant les recettes
+    editeurs: null,
+
+    //Tableau contenant les magasines
+    genres: null,
+
+    // Tableau contenant les recettes
+    types: null,
+
+    //Tableau contenant les magasines
+    personnes: null,
+
+    // Tableau contenant les recettes
+    series: null,
+
+    //Tableau contenant les magasines
+    tomes: null,
 
     constructor : function(config) {
         var me = this;
