@@ -100,15 +100,7 @@ logging.info("Initializing...")
 REQUEST_PARAMETER = { 
     "recipes": { "table": "t_recipe", "columns": [{"name":"identifier", "type": "int"}, {"name":"title", "type": "string"}, {"name":"description", "type": "string"}] },
     "magazines": { "table": "t_magazine", "columns": [{"name":"identifier", "type": "int"}, {"name":"title", "type": "string"}, {"name":"description", "type": "string"}] },
-    "editeurs": 
-    { 
-        "table": "Editeurs",
-        "columns": [
-            { "name":"id", "type": "int"},
-            { "name":"name", "type": "string" },
-            { "name":"cover", "type": "string" }
-        ] 
-    },
+    "editeurs": {  "table": "Editeurs", "columns": [{ "name":"id", "type": "int"}, { "name":"name", "type": "string" }, { "name":"cover", "type": "string" }] },
     "genres": 
     {
         "table": "Genres",
