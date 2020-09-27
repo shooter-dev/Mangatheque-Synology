@@ -1,7 +1,7 @@
 #!/bin/sh
 
-DB_USER="mangatheque"
-DB_NAME="mangatheque"
+DB_USER="synodesigner"
+DB_NAME="synodesigner"
 
 PSQL_BIN="/usr/bin/psql"
 
@@ -13,7 +13,5 @@ sudo -u $DB_USER $PSQL_BIN -U $DB_USER -f $SYNOPKG_PKGDEST/scripts/sql/insert.sq
 ln -svf $SYNOPKG_PKGDEST/usr/lib/python2.7/site-packages/configparser-3.5.0-py2.7-nspkg.pth ${PYTHON_MODULE_PATH}
 ln -svf $SYNOPKG_PKGDEST/usr/lib/python2.7/site-packages/configparser.py ${PYTHON_MODULE_PATH}
 ln -svf $SYNOPKG_PKGDEST/usr/lib/python2.7/site-packages/backports ${PYTHON_MODULE_PATH}
-
-echo "installation  postinst !!" > $SYNOPKG_TEMP_LOGFILE 
 
 exit 0
