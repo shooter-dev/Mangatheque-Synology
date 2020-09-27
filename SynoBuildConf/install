@@ -9,19 +9,6 @@ mkdir -p $PKG_DIR
 ### get spk packing functions
 source /pkgscripts/include/pkg_util.sh
 
-create_inner_tarball() {
-    local inner_tarball_dir=/tmp/_inner_tarball
-
-    ### clear destination directory
-    rm -rf $inner_tarball_dir && mkdir -p $inner_tarball_dir
-
-    ### install needed file into PKG_DIR
-    make install DESTDIR="$inner_tarball_dir"
-
-    ### create package.txz: $1=source_dir, $2=dest_dir
-    pkg_make_inner_tarball $inner_tarball_dir "${PKG_DIR}"
-}
-
 create_package_tgz() {
     local fireware_version=
     local package_tgz_dir=/tmp/_package_tgz
