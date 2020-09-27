@@ -16,6 +16,10 @@ maintainer="ShooterDev"
 
 maintainer_url="http://shooterdev.fr"
 
+distributor="ShooterDev"
+
+support_url="http://shooterdev.fr"
+
 arch="$(pkg_get_platform)"
 
 dsmuidir="ui"
@@ -32,7 +36,7 @@ thirdparty = "yes"
 
 support_conf_folder = "yes"
 
-description="Gestion d'une Mangatheque pour les Utilisateurs du serveur Synology"
+description="Gestion d'une Mangatheque pour les Utilisateurs du Super Serveur Synology"
 [ "$(caller)" != "0 NULL" ] && return 0
 
 pkg_dump_info
