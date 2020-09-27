@@ -7,13 +7,14 @@ UISTRING_PATH="/source/Mangatheque-Synology/package/ui/texts"
 # Avec la version 6.1, la description et le nom sont obligatoires et ne peuvent plus être construit à partir des fichiers de traduction.
 displayname=mangatheque
 
-description="Gestion d'une Mangatheque pour les Utilisateurs du serveur Synology"
 
 package="mangatheque"
 
 version="0.0.0001"
 
 maintainer="ShooterDev"
+
+maintainer_url="http://shooterdev.fr"
 
 arch="$(pkg_get_platform)"
 
@@ -31,5 +32,7 @@ thirdparty = "yes"
 
 support_conf_folder = "yes"
 
+description="Gestion d'une Mangatheque pour les Utilisateurs du serveur Synology"
 [ "$(caller)" != "0 NULL" ] && return 0
+
 pkg_dump_info

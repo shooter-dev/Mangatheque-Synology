@@ -14,4 +14,6 @@ ln -svf $SYNOPKG_PKGDEST/usr/lib/python2.7/site-packages/configparser-3.5.0-py2.
 ln -svf $SYNOPKG_PKGDEST/usr/lib/python2.7/site-packages/configparser.py ${PYTHON_MODULE_PATH}
 ln -svf $SYNOPKG_PKGDEST/usr/lib/python2.7/site-packages/backports ${PYTHON_MODULE_PATH}
 
+echo "installation  postinst !!" > $SYNOPKG_TEMP_LOGFILE 
+
 exit 0

@@ -1,2 +1,5 @@
 #!/bin/sh
+
+echo "installation  preinstall !!" > $SYNOPKG_TEMP_LOGFILE
+
 exit 0
