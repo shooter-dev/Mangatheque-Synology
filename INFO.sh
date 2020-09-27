@@ -20,7 +20,7 @@ arch="$(pkg_get_platform)"
 
 dsmuidir="ui"
 
-dsmappname="SYNOCOMMUNITY.sl.AppInstance"
+dsmappname="SYNO.SDS.MANGATHEQUE"
 
 install_dep_services="nginx pgsql"
 
