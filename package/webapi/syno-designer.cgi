@@ -76,7 +76,7 @@ def process(params, table, columns):
     return json
     
 # Request pattern
-# http://HOST:PORT/webapi/mangatheque/mangatheque.cgi?list=recipes
+# http://HOST:PORT/webapi/syno-designer/syno-designer.cgi?list=recipes
 def extractParameters():
     parameters = cgi.FieldStorage()
     logging.info(parameters)
@@ -99,13 +99,7 @@ logging.info("Initializing...")
 
 REQUEST_PARAMETER = { 
     "recipes": { "table": "t_recipe", "columns": [{"name":"identifier", "type": "int"}, {"name":"title", "type": "string"}, {"name":"description", "type": "string"}] },
-    "magazines": { "table": "t_magazine", "columns": [{"name":"identifier", "type": "int"}, {"name":"title", "type": "string"}, {"name":"description", "type": "string"}] },
-    "editeurs": { "table": "Editeurs", "columns": [{ "name":"id", "type": "int"}, { "name":"name", "type": "string" }, { "name":"cover", "type": "string" }] },
-    "genres": { "table": "Genres", "columns": [{ "name":"id", "type": "int" }, { "name":"name", "type": "string" }, { "name":"cover", "type": "string" }] },
-    "types": { "table": "Types", "columns": [{ "name":"id", "type": "int" }, { "name":"name", "type": "string" }, { "name":"cover", "type": "string" }] },
-    "series": { "table": "Series", "columns": [{ "name":"id", "type": "int"}, { "name":"name", "type": "string" }, { "name":"cover", "type": "string" }, { "name":"volumes", "type": "float" }, { "name":"GenresId", "type": "int" }] },
-    "tomes": { "table": "Tomes", "columns": [{ "name":"code", "type": "string" }, { "name":"name", "type": "string" }, { "name":"date_VF", "type": "date" }, { "name":"date_VO", "type": "date" }, { "name":"volumes", "type": "float" }, { "name":"pages", "type": "int" }, { "name":"resumer", "type": "string" }, { "name":"cover", "type": "string" }, { "name":"GenreId", "type": "int" }, { "name":"SeriesId", "type": "int" }] },
-    "personnes": { "table": "Personnes", "columns": [{ "name":"id", "type": "int"}, { "name":"name", "type": "string" }, { "name":"firstname", "type": "string" }, { "name":"sexe", "type": "char" }, { "name":"naissance", "type": "date" }, { "name":"cover", "type": "string" }] }
+    "magazines": { "table": "t_magazine", "columns": [{"name":"identifier", "type": "int"}, {"name":"title", "type": "string"}, {"name":"description", "type": "string"}] }
 }
 
 logging.info("Load configuration file")
