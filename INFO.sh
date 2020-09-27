@@ -11,7 +11,7 @@ description="Gestion d'une Mangatheque pour les Utilisateurs du serveur Synology
 
 package="mangatheque"
 
-version="0.0.0002"
+version="0.0.0001"
 
 maintainer="ShooterDev"
 
