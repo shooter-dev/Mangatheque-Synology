@@ -68,7 +68,6 @@ create_spk(){
 }
 
 main() {
-    create_inner_tarball
     create_package_tgz
     create_spk
 }
