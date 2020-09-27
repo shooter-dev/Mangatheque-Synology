@@ -102,7 +102,7 @@ REQUEST_PARAMETER = {
     "magazines": { "table": "t_magazine", "columns": [{"name":"identifier", "type": "int"}, {"name":"title", "type": "string"}, {"name":"description", "type": "string"}] },
     "editeurs": { "table": "Editeurs", "columns": [{ "name":"id", "type": "int"}, { "name":"name", "type": "string" }, { "name":"cover", "type": "string" }] },
     "genres": { "table": "Genres", "columns": [{ "name":"id", "type": "int" }, { "name":"name", "type": "string" }, { "name":"cover", "type": "string" }] },
-    "types": { "table": "Types", "columns": [{ "name":"id", "type": "int" }, { "name":"name", "type": "string" }, { "name":"cover", "type": "string" }] }
+    "types": { "table": "Types", "columns": [{ "name":"id", "type": "int" }, { "name":"name", "type": "string" }, { "name":"cover", "type": "string" }] },
     "series": { "table": "Series",  "columns": [{ "name":"id", "type": "int"}, { "name":"name", "type": "string" }, { "name":"cover", "type": "string" }, { "name":"volumes", "type": "float" }, { "name":"GenresId", "type": "int" }] },
     "tomes": { "table": "Tomes", "columns": [{ "name":"code", "type": "string" }, { "name":"name", "type": "string" }, { "name":"date_VF", "type": "date" }, { "name":"date_VO", "type": "date" }, { "name":"volumes", "type": "float" }, { "name":"pages", "type": "int" }, { "name":"resumer", "type": "string" }, { "name":"cover", "type": "string" }, { "name":"GenreId", "type": "int" }, { "name":"SeriesId", "type": "int" }] },
     "personnes": { "table": "Personnes", "columns": [{ "name":"id", "type": "int"}, { "name":"name", "type": "string" }, { "name":"firstname", "type": "string" }, { "name":"sexe", "type": "char" }, { "name":"naissance", "type": "date" }, { "name":"cover", "type": "string" }] }
